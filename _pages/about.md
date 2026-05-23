@@ -11,6 +11,9 @@ I am an incoming PhD student in [Demography](https://www.demog.berkeley.edu) at 
 
 Feel free to send me an [email](mailto:nikita.jp@berkeley.edu) if you wanna chat!
 
+![whiteboards](/images/whiteboard.jpg)
+(studying for finals during my master's program)
+
 Selected Experience
 ======
 * I was a fellow with CMU's branch of [AI-SDM](https://www.cmu.edu/ai-sdm/index.html) (AI Institute of Societal Decision Making).
