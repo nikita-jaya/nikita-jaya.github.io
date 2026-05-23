@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in [Demography](https://www.demog.berkeley.edu) at UC Berkeley. I just completed my [Master’s in Applied Data Science](https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/index.html) at Carnegie Mellon University, and I previously received my [Bachelor’s in Statistics](https://statistics.berkeley.edu) (with minors in Demography and English) from UC Berkeley. I am drawn to interdisciplinary environments, and I have worked in various fields, including academic research, R software development, data science and AI, population analysis, education, and nonprofits.
+I am an incoming PhD student in [Demography](https://www.demog.berkeley.edu) at UC Berkeley. I just completed my Master’s in [Applied Data Science](https://www.cmu.edu/dietrich/statistics-datascience/index.html) at Carnegie Mellon University, and I previously received my Bachelor’s in [Statistics](https://statistics.berkeley.edu) (with minors in Demography and English) from UC Berkeley. I am drawn to interdisciplinary environments, and I have worked in various fields, including academic research, R software development, data science and AI, population analysis, education, and nonprofits.
 
 Feel free to send me an [email](mailto:nikita.jp@berkeley.edu) if you wanna chat!
 
