@@ -15,11 +15,12 @@ redirect_from:
 
 ## Education
 
-* Incoming Ph.D in Demography, UC Berkeley (starting Fall 2026)
-* M.S. in Applied Data Science, Carnegie Mellon University, 2026
-* B.A. in Statistics, UC Berkeley, 2025
+* Incoming [Ph.D. in Demography](https://www.demog.berkeley.edu/graduate-program/), UC Berkeley (starting Fall 2026)
+* [M.S. in Applied Data Science](https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/index.html), Carnegie Mellon University, 2026
+* [B.A. in Statistics](https://statistics.berkeley.edu/academics/undergrad/major), UC Berkeley, 2025
   * Minors: Demography, English
   * Cluster: Mathematics
+* [Pembroke Cambridge Summer Programme](https://www.pem.cam.ac.uk/international-programmes/pembroke-cambridge-summer-programme), University of Cambridge, Summer 2023
 
 ## Academic Experience (abbreviated)
 
