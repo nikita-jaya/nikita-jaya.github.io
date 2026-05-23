@@ -19,8 +19,7 @@ Selected Experience
 * I was a fellow with CMU's branch of [AI-SDM](https://www.cmu.edu/ai-sdm/index.html) (AI Institute of Societal Decision Making).
 * During the summer, I worked as a summer instructor teaching data science to high schoolers with UC Berkeley's [ATDP](https://atdp.berkeley.edu) (Academic Talent Development Program).
 * I am the co-founder of [NemoGB](https://github.com/nemogb-dev/nemogb-r), an open-source R package for course grade calculations that led to my [first publication](https://jose.theoj.org/papers/10.21105/jose.00303).
-* I previously interned as a KQED logo
-Development Research Intern in the major gifts department at [KQED](https://www.kqed.org).
+* I previously interned as a Development Research Intern in the major gifts department at [KQED](https://www.kqed.org).
 
 Academic & Professional Background
 ======
