@@ -15,25 +15,33 @@ redirect_from:
 
 ## Education
 
-* Incoming [Ph.D. in Demography](https://www.demog.berkeley.edu/graduate-program/), UC Berkeley (starting Fall 2026)
+* [Ph.D. in Demography](https://www.demog.berkeley.edu/graduate-program/), UC Berkeley (starting Fall 2026)
 * [M.S. in Applied Data Science](https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/index.html), Carnegie Mellon University, 2026
 * [B.A. in Statistics](https://statistics.berkeley.edu/academics/undergrad/major), UC Berkeley, 2025
-  * Minors: Demography, English
   * Cluster: Mathematics
+  * Minors: Demography, English
 * [Pembroke Cambridge Summer Programme](https://www.pem.cam.ac.uk/international-programmes/pembroke-cambridge-summer-programme), University of Cambridge, Summer 2023
 
 ## Academic Experience (abbreviated)
 
-* Data Science Instructor
-  * UC Berkeley’s Academic Talent Development Program (Berkeley, CA)
-  * Summer 2026, Summer 2025
+* Graduate Student Researcher
+  * Department of Demography, UC Berkeley (Berkeley, CA)
+  * August 2026 - PRESENT
+
+* Senior AI Curriculum Fellow
+  * D-Lab, UC Berkeley, (Berkeley, CA)
+  * July 2026 - PRESENT
 
 * Research Assistant
-  * UC Berkeley (Berkeley, CA)
-  * August 2025 - PRESENT
+  * NSF AI Institute for Societal Decision Making, Carnegie Mellon University (Pittsburgh, PA)
+  * June 2026 - August 2026
 
-* Fellow at NSF AI Institute for Societal Decision Making
-  * Carnegie Mellon University (Pittsburgh, PA)
+* AI Fellow
+  * NSF AI Institute for Societal Decision Making, Carnegie Mellon University (Pittsburgh, PA)
+  * August 2025 - May 2026
+
+* Research Assistant
+  * Department of Statistics, UC Berkeley (Berkeley, CA)
   * August 2025 - May 2026
 
 * Data Science Student Researcher
@@ -41,12 +49,9 @@ redirect_from:
   * September 2024 - December 2024
 
 * Statistics Student Researcher
-  * UC Berkeley (Berkeley, CA)
+  * Department of Statistics, UC Berkeley (Berkeley, CA)
   * February 2023 - May 2025
 
-* Stat 20 Group Tutor
-  * UC Berkeley (Berkeley, CA)
-  * January 2023 - May 2025
 
 ## Professional Experience (abbreviated)
 
@@ -61,13 +66,23 @@ redirect_from:
 * AI / Data Science / ML / Developer Intern
   * Hyphenova (Remote)
   * January 2024 - May 2024
-  
+
+## Teaching Experience (abbreviated)
+
+* Data Science Instructor
+  * UC Berkeley’s Academic Talent Development Program (Berkeley, CA)
+  * Summer 2026, Summer 2025
+
+* Stat 20 Group Tutor
+  * UC Berkeley (Berkeley, CA)
+  * January 2023 - May 2025
+
 ## Skills
 
 * Programming Languages:
   * Python (pandas, numpy, matplotlib, xgboost, scikit-learn, pytorch, streamlit)
   * R (dplyr, tidyr, lubridate, ggplot2, caret, xgboost, randomForest, purrr, Shiny)
-  * SQL
+* Additional Tools: SQL, GitHub, LaTex, Microsoft Suite (Office, Excel, Powerpoint)
 * Technical Skills: practical applications of statistics and AI, data-driven best practices, machine learning, analytical problem-solving
 * Soft Skills: interpersonal skills, written and oral communication skills, public speaking, organized, leadership skills, creativity
 * Domain Experience: academic research, education, academic writing (IMRad), open-source software, nonprofit environments
@@ -76,12 +91,6 @@ redirect_from:
 ## Publications
 
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-## Teaching
-
-  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
