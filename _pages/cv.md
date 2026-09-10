@@ -15,7 +15,7 @@ redirect_from:
 
 ## Education
 
-* [Ph.D. in Demography](https://www.demog.berkeley.edu/graduate-program/), UC Berkeley (starting Fall 2026)
+* [Ph.D. in Demography](https://www.demog.berkeley.edu/graduate-program/), UC Berkeley (Fall 2026 - PRESENT)
 * [M.S. in Applied Data Science](https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/index.html), Carnegie Mellon University, 2026
 * [B.A. in Statistics](https://statistics.berkeley.edu/academics/undergrad/major), UC Berkeley, 2025
   * Cluster: Mathematics
