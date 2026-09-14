@@ -16,6 +16,7 @@ Feel free to send me an [email](mailto:nikita.jp@berkeley.edu) if you wanna chat
 
 Selected Experience
 ======
+* I worked as a research assistant developing real-time disaster situation reports (which can be found [here](https://www.cmu.edu/ai-sdm/outreach/sitreps/index.html)) through a [collaborative initiative](https://www.cmu.edu/news/stories/archives/2026/june/carnegie-mellon-and-meta-partner-to-develop-ai-tools-for-emergency-response) between CMU's AI-SDM and Meta's AI for Good.
 * I was a fellow with CMU's branch of [AI-SDM](https://www.cmu.edu/ai-sdm/index.html) (AI Institute of Societal Decision Making).
 * During the summers, I work as a summer instructor teaching data science to high schoolers with UC Berkeley's [ATDP](https://atdp.berkeley.edu) (Academic Talent Development Program).
 * I am the co-founder of [NemoGB](https://github.com/nemogb-dev/nemogb-r), an open-source R package for course grade calculations that led to my [first publication](https://jose.theoj.org/papers/10.21105/jose.00303).
